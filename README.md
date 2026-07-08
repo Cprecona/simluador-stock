@@ -1,0 +1,1 @@
+Visualizador interactivo para que los alumnos vean el manejo de stock bajo **PEPS**, **UEPS** y **diferencia de inventario**, con el ejercicio de la Guía 9. Las cajas entran y salen de la estantería y se marca la valorización según cada criterio. Pensado para usar **después de resolver la ficha en papel**, como autocorrección.
